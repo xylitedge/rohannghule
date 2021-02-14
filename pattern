@@ -1,5 +1,3 @@
-package com.javainterviewpoint;
-
 import java.util.Scanner;
 
 public class Pattern1
