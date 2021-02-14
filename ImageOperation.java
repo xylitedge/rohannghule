@@ -57,12 +57,12 @@ public class ImageOperation
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         Font font=new Font("Roboto",Font.BOLD,25);
-        //creating button
+        
         JButton button=new JButton();
         button.setText("Open Image");
         button.setFont(font);
 
-        //creating text field
+        
 
         JTextField textField=new JTextField(10);
         textField.setFont(font);
