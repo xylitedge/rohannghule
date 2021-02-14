@@ -18,7 +18,7 @@ public class ImageOperation
         JFileChooser fileChooser=new JFileChooser();
         fileChooser.showOpenDialog(null);
         File file=fileChooser.getSelectedFile();
-        //file FileInputStream
+        
         try
         {
 
