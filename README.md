@@ -8,7 +8,7 @@
 senior Test engineer,web3 enthusiast, and technopreneur from the India . 💻💖☕
 
 
-💻💖☕ by [Rohan Ghule](https://www.xylitedge.com) |
+💻💖☕ by [Rohan Ghule]([https://www.xylitedge.com](https://xylitedge.github.io/rohanghule.in/)) |
 🙏
 
 [personal website]: https://rohanghule.com
